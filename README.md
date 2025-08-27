@@ -29,11 +29,3 @@ Vergleich klassischer lineare Regression mit skalierbaren Methoden (**pandas vs.
 ## Dateien
 - 📄 `Public_Version.pdf` → Bereinigte Studienarbeit  
 - 📓 `notebooks/analysis.ipynb` → Vollständige Analyse in Jupyter Notebook  
-- 🐍 `src/` → Python-Skripte (Preprocessing, Regression, Dask-Vergleich)  
-
----
-
-## Nutzung
-```bash
-pip install -r requirements.txt
-jupyter notebook notebooks/analysis.ipynb
