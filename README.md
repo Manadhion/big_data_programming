@@ -2,7 +2,7 @@
 # Big Data Programming – MPG Prediction
 
 📊 **Studienarbeit im Modul Big Data Programming (Sommersemester 2025)**  
-Hochschule XYZ  
+Hochschule: deutsche Hochschule für angewandte Wissenschaft 
 
 Ziel: Vorhersage des Kraftstoffverbrauchs (*miles per gallon, mpg*) auf Basis des **Auto-Datensatzes** aus *An Introduction to Statistical Learning (ISLR)*.  
 Vergleich klassischer lineare Regression mit skalierbaren Methoden (**pandas vs. Dask**).
